@@ -1,7 +1,5 @@
 # Renderer2D
 
-# ! Note this renderer will only work on Windows at the current moment. !
-
 Renderer2D is a lightweight 2D batch rendering API written in C++ that uses OpenGL which is intended to be used to make 2D games/applications.
 It was developed as a learning exercise, drawing inspiration from LearnOpenGL.com and other sources such as Cherno's OpenGL series so it is fairly primitive. 
 Renderer2D abstracts away OpenGL boiler plate and is designed to be a starting point where more features can be added on top as needed. 
